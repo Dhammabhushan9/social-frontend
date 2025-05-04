@@ -3,5 +3,5 @@
 export const Post=()=>{
     return<>
     
-    <h1>post</h1></>
+    <h1> </h1></>
 }
